@@ -1,0 +1,19 @@
+{
+"name": "wadova/wadova",
+"description": "The community framework for wadova boards",
+"type": "framework",
+"homepage": "http://www.wadovalabs.com",
+"license": "BSD-3-Clause",
+"keywords": ["php", "wadova", "forum-framework", "framework"],
+
+"authors": [
+{
+"name": "Eccentriq",
+"email": "onlyalainastyles@gmail.com",
+"role": "Founder",
+}],
+
+"require": {
+"php": "^5.5.9 || ^7.0,
+
+}}
